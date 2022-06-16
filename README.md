@@ -67,4 +67,4 @@ With all environment variables changed to suit your local copy of this repositor
 
 ## License
 
-This project is licensed under the MIT License  [LICENSE.md](LICENSE.md)
+This project is licensed under the MIT License [LICENSE.md](LICENSE.md)
